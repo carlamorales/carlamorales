@@ -1,6 +1,9 @@
-### Hi there, I’m Carla Morales :D
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, React, Node.js...
-- 🔭 I’m currently working on improving my coding skills.
+## Hi there, I’m Carla Morales :D
+### About Me:
+- 👨🏻‍💻 FrontEnd Developer.
+- ✍️ Licenciada en Lengua y Literatura Hispánica.
+- 🌱 Currently learning HTML5, CSS3, JavaScript, React and Node.js.
+- 🔭 Currently working on improving my coding skills.
 - 📫 How to reach me: carlamoralespacheco@gmail.com.
 
 <!--
