@@ -1,6 +1,6 @@
 ## Hi there, I’m Carla Morales :D
 ### About Me:
-- 👨🏻‍💻 FrontEnd Developer.
+- 👨🏻‍💻 iOS and Web Developer.
 - ✍️ Licenciada en Lengua y Literatura Hispánica 📚.
 - 💻 Currently working on improving my coding skills.
 - 👯 Also, my ✨ soft skills ✨.
