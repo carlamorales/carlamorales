@@ -3,7 +3,6 @@
 - 👨🏻‍💻 iOS and Web Developer.
 - ✍️ Licenciada en Lengua y Literatura Hispánica 📚.
 - 💻 Currently working on improving my coding skills.
-- 👯 Also, my ✨ soft skills ✨.
 - 📧 How to reach me: carlamoralespacheco@gmail.com.
 - 🔗 Where to find me: https://www.linkedin.com/in/carlamoralespacheco/.
 ### Technologies and Tools:
